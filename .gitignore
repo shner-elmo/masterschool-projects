@@ -1,0 +1,6 @@
+__pycache__/
+.idea/
+.vscode/
+.pytest_cache/
+notes.txt
+.mypy_cache/
